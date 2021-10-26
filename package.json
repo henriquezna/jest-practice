@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquezna/jest-practice.git"
+  },
+  "author": "henriquezna@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquezna/jest-practice/issues"
+  },
+  "homepage": "https://github.com/henriquezna/jest-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.8",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.3.1"
+  }
+}
